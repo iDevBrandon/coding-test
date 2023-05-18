@@ -27,9 +27,3 @@ else :
         else :
             rtnVal += min_one*(n%6)
         print(rtnVal)
-
-
-
-
-
-
