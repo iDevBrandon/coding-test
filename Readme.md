@@ -16,6 +16,10 @@ EX) 0516/1oven-clock.js & 0516/1oven-clock.py & 2oven-clock.py
 
 다슬 : PY2
 
-## 레포 url
+## 순서
 
-<https://github.com/iDevBrandon/coding-test>
+| 순번 |  Tag   |                        문제집                        |                 JavaScript                  |                    Python                    |
+| :--: | :----: | :--------------------------------------------------: | :-----------------------------------------: | :------------------------------------------: |
+|  1   |        | [숫자 빈도수](https://www.acmicpc.net/problem/14912) | [JS](./JavaScript/2305/number-frequency.js) | [PY](/Python/2305/0517_2number-frequency.py) |
+|  2   |        |  [오븐 시계](https://www.acmicpc.net/problem/2525)   |                                             |                                              |
+|  3   | greedy |                  [바로가기](./tree)                  |                                             |                                              |
